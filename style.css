@@ -105,3 +105,13 @@
   .navbar-white .navbar-toggler-icon {
     background-image: url("data:image/svg+xml;..");
   }
+
+  .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 30px;
+    line-height: 20px; /* Vertically center the text there */
+    background-color: #080808;
+  }
